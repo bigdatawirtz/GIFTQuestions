@@ -1,0 +1,34 @@
+Sinala a resposta correcta{
+    =Os datos estructurados son os máis fáciles de procesar
+    ~Os datos non estructurados son os máis fáciles de procesar
+    ~Os datos semi-esctructurados poden gardar todo tipo de información (imaxes, vídeos, pdf...)
+    ~Os datos non estrucuturados inclúen bases de datos relacionais, follas de cálculo... 
+}
+
+Un PDF é un tipo de dato...{
+    ~Semi-estructurado
+    ~Estructurado
+    =Non Estructurado
+    ~Non se considera un dato
+}
+
+A que perfil de Big Data corresponde a seguinte función? É capaz de mellorar a precisión e o rendemiento dos algoritmos de aprendizaxe automático{
+    =Científico de datos
+    ~Enxeñeiro de datos
+    ~Enxeñeiro de infraestructura de datos
+    ~Enxeñeiro de machine learning
+}
+
+Unha folla de cáculo é un tipo de dato...{
+    ~Semi-estructurado
+    =Estructurado
+    ~Non Estructurado
+    ~Non se considera un dato
+}
+
+Cal é a función principal do archivo ".gitignore"?{
+    ~Rexistrar os cambios realizados no código
+    ~Especificar a configuración do repositorio
+    =Ignorar archivos e directorios específicos durante o versionamento
+    ~Almacenar contraseñas de acceso ao repositorio
+}
