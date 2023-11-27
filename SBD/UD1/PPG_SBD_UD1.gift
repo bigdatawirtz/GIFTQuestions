@@ -1,0 +1,35 @@
+Señala la incorrecta. Caracteristicas de python {
+    ~Es un lenguaje de alto nivel
+    ~Es un lenguaje orientado a objetos
+    =Es un lenguaje compilado
+    ~Es un lenguaje tipeado dinámicamente
+}
+
+Tipos de datos en Big Data {
+    ~Estructurados. Utilizan metadatos para crear estructuras más flexibles
+    ~Semi-estructurados. Se usan para registros de bases de datos
+    =No estructurados. Contienen metadatos
+    ~No estructurados. Almacenamiento en bases de datos NoSQL
+}
+
+OpenData... {
+    =Debe de tener datos documentados
+    ~OpenData es una fuente de datos externa y semipública
+    ~Es de codigo abierto y tiene datos semi-estructurados o no estructurados
+    ~OpenData es una filosofía y una práctica que pone la información sobre asuntos de carácter privado
+    a disposición del público
+}
+
+Respecto al Bussiness Inteligence {
+    ~Proceso de exploración y visualización de datos
+    =Datos planificados y estrucutrados
+    ~Analisis prescriptivo y predictivo 
+    ~Usa patrones y correlaciones
+}
+
+Los enviroments en python se usan para... {
+    ~Para unir todos los packages usables en un mismo sitio
+    ~Poder compartir informacion entre varios usuarios de distintos proyectos
+    ~Comprobar y actualizar (siempre que sea posible) las versiones del software utilizado
+    =Localizar la instalación de las dependencias de tu proyecto
+}
