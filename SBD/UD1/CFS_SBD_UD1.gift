@@ -1,0 +1,34 @@
+Que tipo de datos é máis difícil de procesar? {
+    =Non estruturado.
+    ~Estruturado.
+    ~Semiestruturado.
+    ~Superestruturado.
+}
+
+Que perfís se encargan de explorar, transformar, agregar, etiquetar, aprender e optimizar datos?{
+    ~Enxeñeira de infraestrutura de datos e analista de datos.
+    ~Enxeñeira de aprendizaxe automático e científica de datos.
+    =Científica de datos e analista de datos.
+    ~Analista de datos e enxeñeira de datos.
+}
+
+Cal dos seguintes é obrigatorio nun repositorio de git?{
+    ~LICENSE
+    ~README.md
+    =.git
+    ~.gitignore
+}
+
+Unha imaxe é un tipo de dato...{
+    ~Non é un tipo de dato.
+    =Non estruturado.
+    ~Semiestruturado.
+    ~Estruturado
+}
+
+Cal é un dos obxectivos principais da dixitalización? {
+    ~Identificación de clientes de alto valor.
+    ~Inducción á compra.
+    ~Mantemento predictivo en fábrica.
+    =Xeración de novos ingresos.
+}

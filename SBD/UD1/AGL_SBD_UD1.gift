@@ -1,0 +1,34 @@
+¿Cuáles son las ventajas de los datos estructurados respecto a los no estructurados?{
+~Tienen mayor cantidad
+~Principalmente suponen ventajas mínimas
+=Son más fáciles de procesar
+~Ninguna es correcta
+}
+
+Actualmente,¿de qué tipo existen más datos almacenados?{
+~Ciertamente se desconoce
+~La diferencia es mínima entre datos estructurados y no estructurados
+~Datos estructurados
+=Datos no estructurados
+}
+
+¿Cuál es un ejemplo de data semi estructurado?{
+~Archivo CSV
+~Base de datos SQL
+~Imagen
+=Archivo XML
+}
+
+¿Cuáles son las tareas de un Analista de Datos?{
+~Utilizar técnicas estadísticas descriptivas
+~Colaborar en la adquisición de los requisitos del proyecto
+~Comunicar los resultados mediante informes y/o visualizaciones
+=Todas son correctas
+}
+
+En caso de querer trabajar mejorando la precisión y el rendimiento de los algoritmos de aprendizaje automático, ¿cuál sería el puesto de trabajo más indicado?{
+=Científico de Datos
+~Ingeniero de aprendizaje automático
+~Ingeniero de datos
+~Analista de Datos
+}
