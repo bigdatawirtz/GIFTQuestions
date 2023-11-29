@@ -1,0 +1,34 @@
+¿Qué perfil en Big Data se enfoca en la creación y mantenimiento de pipelines de datos, gestionando el rendimiento y los posibles errores?{
+    =Ingeniero de Datos.
+    ~Científico de Datos.
+    ~Analista de Datos.
+    ~Ingeniero de Machine Learning.
+}
+
+¿Qué es un entorno (environment) en Python? {
+    =Un conjunto de paquetes y dependencias específicos para un proyecto.
+    ~Una función especial de Python.
+    ~Un tipo de variable global.
+    ~Un componente del sistema operativo.
+}
+
+¿Qué es Git? {
+    =Un sistema de control de versiones.
+    ~Un lenguaje de programación.
+    ~Un framework para desarrollo web.
+    ~Un editor de texto.
+}
+
+¿Cómo se describen los datos que no tienen una estructura predefinida y no se pueden organizar fácilmente en tablas o relaciones? {
+    =Datos no estructurados.
+    ~Datos estructurados.
+    ~Datos semi-estructurados.
+    ~Datos caóticos.
+}
+
+¿Qué disciplina proporciona informes y análisis basados en datos históricos? {
+    =Business Intelligence (BI).
+    ~Data Science.
+    ~Ninguna.
+    ~Ciencia de Datos Empresariales.
+}

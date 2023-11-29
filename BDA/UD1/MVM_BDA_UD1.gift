@@ -1,0 +1,37 @@
+¿En qué consiste la escalabilidad vertical en Big Data? {
+    =Incrementar la capacidad de una máquina existente para manejar mayores volúmenes de datos.
+    ~Añadir más nodos al sistema para aumentar la capacidad de procesamiento.
+    ~Distribuir la carga de trabajo entre varias máquinas para mejorar la eficiencia.
+    ~Reducir la velocidad de procesamiento para ahorrar recursos.
+}
+
+¿Qué es un dirección IP? {
+    =Un identificador único asignado a un dispositivo en una red.
+    ~Un protocolo de enrutamiento utilizado en Internet.
+    ~Un código de barras que identifica la ubicación física de un dispositivo.
+    ~Un identificador de la marca y el modelo de un dispositivo.
+}
+
+¿Qué es Docker en el contexto de la virtualización y la gestión de contenedores?{
+    =Una plataforma de contenedores.
+    ~Un sistema operativo.
+    ~Una máquina virtual.
+    ~Un servicio de alojamiento web.
+}
+
+¿Qué es una máquina virtual? {
+    =Una instancia de un sistema operativo que se ejecuta en un entorno virtualizado.
+    ~Un dispositivo físico con hardware dedicado.
+    ~Un entorno de desarrollo para programadores.
+    ~Un servidor web utilizado para alojar sitios en línea.
+}
+
+¿Cuáles son algunos de los recursos que pueden asignarse a una máquina virtual? {
+    =Espacio en disco y memoria RAM.
+    ~Teclado y ratón.
+    ~Impresoras y escáneres.
+    ~Altavoces y micrófono.
+}
+
+
+
