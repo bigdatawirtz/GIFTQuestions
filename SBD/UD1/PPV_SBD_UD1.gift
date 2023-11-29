@@ -1,0 +1,34 @@
+¿Que fai o .gitignore? {
+  =Dentro do arquivo hai reglas que detarminan que arquivos ou carpetas debe ignorar.
+  ~As carpetas que conteñen este arquivo, son ignoradas por git.
+  ~Esa nomenclatura non existe, a correcta é .git
+  ~Ningunha é correcta.
+}
+
+¿Identifica cal é o mayor erro de Python? {
+  =É un caos en canto as versións.
+  ~Python é a mellor linguaxe de programción existente, y non ten ningún erro.
+  ~Que é unha linguaxe con duck typing.
+  ~Que o seu número de librerías é moi extenso.
+}
+
+Que perfil asociase ao Big Data Aplicado {
+  =Data Engineer.
+  ~Data Analyst.
+  ~Data Developer.
+  ~Data Scientist.
+}
+
+Cal é un exemplo de datos NON estructurados {
+  =Correo electrónico.
+  ~Táboa de Base de datos.
+  ~Arquivo XML.
+  ~Ningún son correctos.
+}
+
+Diferenzas entre Bussines Intelligence e Data Science {
+  =Aunque parten da mesma base, e o Data Science poderíase nomear como unha evolución, o Data Science ademáis de un comportamento Descriptivo e Comportamental, tamén trata a Predicción, Interacción e Actitudinal.
+  ~Tanto o Bussines Intelligence e o Data Science, son o mesmo concepto, solo que nunha maniobra de marketing, renomearon o concepto para facelo máis atractivo ao mercado actual.
+  ~O Bussines Intelligence é utiliza máis no ámbito de marketing, mentras que o Data Science utilizase nos sectores de desarrollo dos productos dunha empresa.
+  ~Ningún son correctos.
+}
