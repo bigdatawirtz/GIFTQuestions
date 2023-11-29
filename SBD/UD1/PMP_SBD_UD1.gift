@@ -1,0 +1,34 @@
+¿Como podemos volver a unha versión anterior dun commit? {
+    =Co comando "git checkout 'commit-id'"
+    ~Co comando "git reverse 'commit-id'"
+    ~Non se pode volver a un commit anterior.
+    ~Co comando "git return 'commit-id'"
+}
+
+¿Cal é a función principal dos environments en python? {
+    =Evitar contradiccións entre versións de python.
+    ~Traballar con diferentes librerías.
+    ~Evitar errores de código.
+    ~Establecer reglas para a sintaxis do código.
+}
+
+¿Un archivo xml é un tipo de dato...? {
+    =Semi-estructurado.
+    ~Estructurado.
+    ~Non-estructurado.
+    ~Ningunha das anteriores.
+}
+
+As funcións de un inxenieiro de datos son... {
+    =Almacenamiento de datos estructurados y non-estructurados, infraestructura etc.
+    ~AI y deep learning.
+    ~Limbpieza y detección de anomalías, A/B testing, analiticas etc.
+    ~Logging, sensores, datos externos, generación de contenido por parte del usuario.
+}
+
+Diferencia entre bussines intelligence (BI) y data science (DS) {
+    =BI retrospectivo e decriptivo / DS predictivo e perspectivo
+    ~DS retrospectivo e decriptivo / BI predictivo e perspectivo
+    ~BI descriptivo e perspectivo / DS retrospectivo e predictivo
+    ~Ningunha das anteriores.
+}
