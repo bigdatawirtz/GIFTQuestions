@@ -1,0 +1,34 @@
+¿En qué puerto se expone por defecto el servicio SSH?{
+~2222
+~22222
+=22
+~21
+}
+
+¿Qué diferencia hay entre HTTP y HTTPS?{
+~HTTP está por defecto en el puerto 80 y HTTPS en el 443
+~En HTTPS la información va cifrada
+~HTTPS es más rápido que HTTP
+=La A y la B son correctas
+}
+
+Si quiero conectarme a un host con IP 192.168.1.2 por SSH con usuario "user"...{
+~scp user@192.168.1.2
+~ssh usuario@192.168.1.2
+~ftp user@192.168.1.2
+=ssh user@192.168.1.2
+}
+
+¿Cuáles son las 3 V's del Big Data?{
+~Veracidad, Volumen y Valor
+~Velocidad, Viabilidad y Volumen
+~Visualización, Variedad y Viabilidad
+=Volumen, Variedad y Velocidad
+}
+
+¿Cuáles son las diferencias principales que ofrece un contenedor en lugar de una máquina virtual?{
+=Los Dockers son mucho más ligeros y rápidos
+~Las máquinas virtuales tienen más escalabilidad que los Dockers
+~Los Dockers son más portátiles que las máquinas virtuales
+~Las máquinas virtuales son más rápidas para arrancar
+}
