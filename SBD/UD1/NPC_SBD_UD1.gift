@@ -1,0 +1,32 @@
+Cual es el perfil de bid data encargado de entender y capturar las necesidades de la organizacion en relación con los datos (data needs)?{
+    =Data Scientist
+    ~Data Engineer
+    ~Machine Learning Engineer
+    ~Data Analyst
+}
+
+En relacion con los tipos de datos, selecciona cual es la verdadera{
+    ~Las imagenes, videos y documentos de texto son un tipo de datos semi estructurados
+    ~Algunos ejemplos de tipos de datos unstructured son los XML o JSON
+    =Los tipos de datos semi estructurados emplean metadatos para crear estructuras mas flexibles
+}
+
+Segun la piramide de los tipos de datos...{
+    ~Los tipos de datos no estrucurados son menos faciles de procesar
+    ~Los tipos de datos estructurados tienen mas cantidad de datos y son menos faciles de procesar que los demas
+    =Los tipos de datos no estruturados tienen mayor cantidad de datos
+}
+
+Cual es el comando de Git empleado para clonar un repositorio remoto?{
+    ~git push
+    =git clone 
+    ~git pull
+    ~git commit
+}
+
+Cual es la diferencia principal entre las listas y las tuplas en Python?{
+    ~Las listas son inmutables, mientras que las tuplas son mutables.
+    ~Las listas pueden contener elementos de diferentes tipos, pero las tuplas solo pueden contener elementos del mismo tipo.
+    =Las listas se crean con corchetes ([]), mientras que las tuplas se crean con paréntesis (()).
+    ~Las listas son ordenadas, pero las tuplas no tienen un orden definido.
+}
