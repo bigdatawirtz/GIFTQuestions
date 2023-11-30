@@ -1,0 +1,34 @@
+¿A que perfilels de Big Data está enfocado SBD? {
+    ~Ingeniero de ML y científico de datos
+    ~Ingeniero de datos e ingeniero de ML
+    =Científico de datos y analista de datos
+    ~Ingeniero de datos e ingeniero de infrastructura de datos
+}
+
+¿Cúal NO es una condición para que un conjunto de datos se considere OpenData? {
+    ~Datos estructurados
+    ~Permitir la reutilación
+    =Todas son condiciones válidas
+    ~Origen de los datos documentado
+}
+
+¿Qué tipo de análisis debemos realizar para saber como hacer que algo ocurra? {
+    ~Análisis descriptivo
+    ~Análisis diagnóstico
+    =Análisis prescriptivo
+    ~Análisis diagnóstico
+}
+
+¿Por qué hay cada vez mas datos estructurados? {
+    ~Porque cada vez existe más contenido
+    ~Debido a que hay más servicios bajo demanda
+    =Todas son causas válidas
+    ~Por la creciente cantidad de dispositivos que tenemos por persona
+}
+
+¿Qué perfil de Big Data se encarga de organizar y mantener la Arquitectura de los Datos? {
+    ~Ingeniero de ML
+    ~Arquitecto de Datos
+    =Ingeniero de Datos
+    ~Ingeniero de Infrastructura de Datos
+}
