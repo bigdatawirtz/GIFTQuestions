@@ -1,0 +1,34 @@
+As 3 V's do Big Data son? {
+    =Volume, variedade e velocidade.
+    ~Veracidade, valor e volume.
+    ~Visualización, viabilidade e volume.
+    ~Variedade, veracidade e valor.
+}
+
+En que se basean as infrainfraestruturas de datos na actualidade? {
+    =A e B son correctas.
+    ~Servidores de bases de datos. (A)
+    ~Ferramentas de procesamento de datos tradicionais (B)
+    ~Todas son falsas.
+}
+
+Que precisamos se queremos máis espazo de almacanamento e máis potencia de cálculo? {
+    =Máquinas.
+    ~Bases de datos.
+    ~Contenedores.
+    ~Eliminar ficheiros.
+}
+
+Que fai o procesamento de datos distribuído? {
+    =Toma o volume de datos de gran tamaño e divídeo en partes máis pequenas.
+    ~Toma o volume de datos de gran tamaño e divídeo en partes máis grandes.
+    ~Toma o volume de datos de gran tamaño e divídeo en partes máis iguais.
+    ~Todas son falsas.
+}
+
+Hadoop creouse para... {
+    =Manexar volumes de datos masivos.
+    ~Manexar pequenos volumes de datos.
+    ~Crear máquinas virtuais.
+    ~Ser un navegador web.
+    }
