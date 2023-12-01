@@ -1,0 +1,34 @@
+Las 3 V's del Big Data: {
+    =Volumen, Variedad, Velocidad
+    ~Volumen, Valor, Velocidad
+    ~Valor, Variedad, Velocidad
+    ~Valor, Volumen, Variedad
+}
+
+Que es el commodity cluster? {
+    ~Nueva tecnología que permita mayor capacidad en el procesamiento de datos
+    ~Arquitectura que permite mayor capacidad de alamacenamiento
+    =Nueva arquitectura que permite procesar de forma escalable y predecible volumenes elevados de datos
+    ~Tipo de cluster que ayuda al almacenamiento de datos y a la computacion de los equipos
+}
+
+Las claves SSH públicas... {
+    ~Se mantiene en tu ordenador
+    ~Solo tu debes tener acceso a ella
+    ~Puede ser descifrada mediante el algoritmo de numeros primos
+    =Se almacena en un servidor
+}
+
+El sistema docker: {
+    ~Es una tecnología relativamente nueva y poco implementada en la red
+    =Facilita que solo utilicen sus recursos asignados
+    ~La estructura de Docker, para generar rapidez, usa solo una capa que genera varias imagenes
+    ~Docker se basa en Windows
+}
+
+Un fichero Vagrant: {
+    =Es un software que nos permite configurar una instancia de una máquina virtual mediante un archivo de        configuración
+    ~Un fichero Vagrant permite trabajar con distintas versiones en un mismo equipo
+    ~Es un software que permite sustituir las maquinas virtuales para realizar instancias
+    ~Un fichero Vagrant permite configurar servidores Linux para controlar versiones de software
+}
