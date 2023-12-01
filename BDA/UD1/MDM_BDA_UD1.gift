@@ -1,0 +1,34 @@
+Cuál es el objetivo de las claves rsa?{
+~Compresión de datos
+~Autenticación de usuarios
+=Firma digital y cifrado de datos
+~Transmisión de archivos
+}
+
+Qué es Docker?{
+~Un sistema operativo
+=Una herramienta de virtualización
+~Una herramienta de gestión de bases de datos
+~Un lenguaje de programación
+}
+
+Qué es la variedad en el Big Data? {
+~La cantidad de datos
+=La diversidad de los datos
+~La velocidad a la que se generan los datos
+~La fiabilidad de los datos
+}
+
+Cuál es la función del comando git pull en Git?{
+~Subir cambios al repositorio remoto
+~Fusionar ramas en el repositorio local
+=Descargar cambios del repositorio remoto
+~Crear una nueva rama
+}
+
+Cuál es el objetivo de wget en sistemas Unix?{
+~Navegar por sitios web
+~Comprimir archivos
+=Descargar archivos desde la web
+~Visualizar el contenido de ficheros
+}
