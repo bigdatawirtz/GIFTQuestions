@@ -1,0 +1,42 @@
+¿Cuál de las siguientes afirmaciones es correcta sobre Hadoop?
+{
+    ~Hadoop está escrito en Java.
+    ~Hadoop es un sistema operativo de código abierto.
+    ~Hadoop es un framework de software utilizado para el almacenamiento y procesamiento distribuido de grandes conjuntos de datos.
+    =Todas las anteriores son correctas.
+}
+
+
+
+¿Por qué se utiliza el archivo .README en los repositorios Git?
+{
+    ~Para describir la estructura interna de los archivos.
+    ~Para almacenar contraseñas y credenciales.
+    =Para proporcionar documentación sobre el propósito y uso del proyecto.
+    ~Para ejecutar comandos automáticamente al clonar el repositorio.
+}
+
+¿Cuáles son las 3 V's del Big Data?
+{
+    ~Velocidad, Volumen y Valor.
+    ~Variedad, Visibilidad y Value.
+    ~Visualización, Variedad y Veracidad.
+    =Velocidad, Variedad y Volumen.
+}
+
+¿Cuál es la definición del paradigma de datos masivos (Big Data) según el NIST (National Institute of Standards and Technology)?
+{
+    ~La concentración de sistemas de datos en recursos verticalmente acoplados para lograr la eficiencia en el procesamiento de conjuntos de datos extensos.
+    =La distribución de sistemas de datos a lo largo de recursos acoplados horizontalmente e independientes para lograr la escalabilidad necesaria en el procesamiento eficiente de conjuntos de datos extensos.
+    ~El almacenamiento centralizado de grandes volúmenes de datos para facilitar el acceso y la gestión.
+    ~La restricción del acceso a datos a un número limitado de perfiles de usuario técnico dentro de una organización.
+}
+
+
+¿Para qué se utilizan los puertos 22, 80 y 443?
+{
+    =El puerto 22 se usa para SSH, el puerto 80 para HTTP, y el puerto 443 para HTTPS.
+    ~El puerto 22 se usa para HTTPS, el puerto 80 para FTP, y el puerto 443 para SSH.
+    ~El puerto 22 se usa para HTTP, el puerto 80 para HTTPS, y el puerto 443 para FTP.
+    ~El puerto 22 se usa para SSH, el puerto 80 para HTTPS, y el puerto 443 para HTTP.
+}
