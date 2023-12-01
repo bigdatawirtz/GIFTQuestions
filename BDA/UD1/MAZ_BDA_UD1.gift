@@ -1,0 +1,34 @@
+Que V do Big Data non pertence ás 3 V (uves) do Big Data? {
+    =Veracidade.
+    ~Volume.
+    ~Variedade.
+    ~Velocidade.
+}
+
+Que se fai en vez de procesar grandes bases de datos con computadoras centrais grandes e potentes, e almacenalas en servidores de discos xigantes (escalabilidade vertical)? {
+    =Todas son correctas.
+    ~O procesamento de datos distribuido toma o volume de datos de gran tamaño e divídeo en partes máis pequenas.
+    ~Volumes de datos pequenos distribúense en moitas localizacións para que os procesen moitas computadoras con procesadores máis pequenos.
+    ~Cada computadora da arquitectura distribuída analiza a súa parte do total de datos masivos (escalabilidade horizontal).
+}
+
+Indica a proposición verdadeira sobre Docker. {
+    =Todas son verdadeiras.
+    ~Os contedores de docker comparten un sistema operativo.
+    ~Os contedores de docker son máis lixeiros, ocupan menos espazo e teñen un levantamento máis rápido que as máquinas virtuais.
+    ~Docker é unha ferramenta para levantar escenarios e só funciona en Linux (a nós funciónanos porque temos WSL).
+}
+
+Como se chama o arquivo ou ficheiro dunha clave privada da autenticación SSH? {
+    =id_rsa
+    ~.ssh
+    ~id_rsa.pub
+    ~authorized_keys
+}
+
+Cal é o porto por defecto de MySQL ou MariaDB? {
+    =3306
+    ~80
+    ~443
+    ~8080
+}
