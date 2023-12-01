@@ -1,8 +1,9 @@
+
 ¿Cual es la afirmación correcta sobre un Científico de Datos? {
-		~Verifica que los algoritmos ML en producción cumplen sus objetivos y se adaptan a los 	cambios.
-		~Utilizar "lenguajes de consulta" para recuperar y manejar información.
-		=Utiliza herramientas estadísticas y de Machine Learning para realizar predicciones o identificar patrones en grandes conjuntos de datos ("datasets").
-		~ Utiliza herramientas estadísticas descriptivas.
+        ~Verifica que los algoritmos ML en producción cumplen sus objetivos y se adaptan a los 	cambios.
+	~Utilizar lenguajes de consulta para recuperar y manejar información.
+	=Utiliza herramientas estadísticas y de Machine Learning para realizar predicciones o identificar patrones en grandes conjuntos de datos ("datasets").
+	~Utiliza herramientas estadísticas descriptivas.
 }
 
 Identifica la respuesta correcta sobre datos Semi-estructurados {
@@ -23,7 +24,7 @@ Identifica la afirmación correcta para el concepto de OpenData {
         ~Es una fuente de datos pública e interna, que no permite la reutilización.
         ~Es una fuente de datos pública, pero los datos no están bien estructurados ni documentados.
         ~Es una fuente de datos privada y externa.
-		=Es una fuente de datos pública y externa, de código abierto.
+	=Es una fuente de datos pública y externa, de código abierto.
 }
 
 De las siguientes afirmaciones, cual es la afirmación FALSA sobre los DataSet {
