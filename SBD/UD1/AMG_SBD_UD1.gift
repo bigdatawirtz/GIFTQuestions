@@ -1,0 +1,35 @@
+
+Señala a resposta correcta{
+    = Os tipos de datos estructurados son os mais fáciles de procesar 
+    ~ Os tipos de datos semi-estructurados son os mais difíciles de procesar 
+    ~ Nos tipos de datos estructurados o mais común é almacenar videos, imaxes... 
+    ~ Os tipos de datos estructurados son os mais dificiles de procesar  e os semi-estructurados os máis fáciles
+}
+
+XML e Json son tipos de datos  {
+    ~ Non  estructurado 
+    = Semi- estructurados
+    ~ Todas son correctas
+    ~ Estructurado
+}
+
+Marca a resposta correcta acerca da Intelixencia de Negocios(BI) e a Ciencia de Datos? {
+~ Na Ciencia de datos realízase unha análise retrospectiva e descriptiva
+= No BI os datos son estructurados e de crecemento lento mentras que na Ciencia de Datos os datos son desestructurado e de crecemento rápido
+~ No BI úsase un proceso de exploración e experimentación
+~ Na Ciencia de Datos o proceso é estático e comparativo
+}
+
+De que tarefa se encargan os científicos de datos {
+~ Recollen datos
+= Analizan, proban, agregan, optimizan os datos e os presentan para a empresa.
+~ Deseñan, constrúen e organizan as "canalizacións" de datos
+~ Ningunha é correcta
+}
+
+Que perfil se encarga de usar filtros e manipulación de datos para reorganizar e limpar datos {
+= Analista de datos
+~ Científico de datos
+~ Enxeñeiro de datos
+~ Enxeñeiro de infraestrutura de datos
+}

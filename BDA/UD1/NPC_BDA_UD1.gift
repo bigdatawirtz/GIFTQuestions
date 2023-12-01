@@ -1,0 +1,32 @@
+Cuales son las 3V del Big Data? (las mas importantes){
+    ~Volumen,Valor,Veracidad
+    ~Viabilidad,Volumen,Volatibilidad
+    =Velocidad,Volumen,Variedad
+    ~Variedad,Veracidad,Viabilidad
+}
+
+Cual de las siguientes afirmaciones decribe correctamente la tendencia actual en las infrastructuras de datos{
+    =Las infrastructuras de datos se basanprincipalmente en tecnologias de procesamiento de datos masivos.
+    ~El acceso a los datos esta restringido únicamente a personal técnico dentro de la organizacion.
+    ~Cada vez mas empresas utilizan servidores de bases de datos tradicionales en sus infraestructuras de datos.
+}
+
+Que caracteristica destaca la infrastructura de datos mencionada en relacion con la accesibilidad?{
+    ~El acceso a los datos esta limitado a unas pocas clave dentro de la organizacion.
+    ~La mayoria de las infrastructuras de datos permiten el aceso solo a perfiles técnicos.
+    =Se permite el acceso a diversos perfiles de usuarios, incluyendo técnicos, no tecnicos, cientificos de datos y responsables de negocio.
+}
+
+Que caraacteristica describe correctamente el procesamiento de datos distribuido?{
+    ~Se utiliza exclusivamente computadoras centrales grandes y potentes.
+    ~El volumen de datos se mantiene sin dividir en partes mas pequeñas.
+    =En la escalabilidad horizontal cada computadora analiza una parte del total de datos masivos.
+    ~En un sistema de archivos distribuido, los usuarios pueden conocer la ubicacion exacta de todos los archivos.
+}
+
+Cual es la diferencia principal entre escalabilidad horizontal y vertical en sistemas informaticos?{
+    ~La escalabilidad horizontal implica agregar más recursos a un único componente,la escalabilidad vertical implica distribuir la carga entre varios componentes.
+    =La escalabilidad horizontal implica agregar más recursos a un sistema para aumentar su capacidad,la escalabilidad vertical implica agregar más instancias del sistema para distribuir la carga.
+    ~La escalabilidad horizontal implica aumentar la capacidad de un componente al mejorar sus características,la escalabilidad vertical implica agregar más instancias del componente.
+    ~La escalabilidad horizontal y vertical son términos intercambiables y se refieren al mismo concepto de mejorar la capacidad de un sistema.    
+}

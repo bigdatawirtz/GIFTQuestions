@@ -1,0 +1,34 @@
+¿Cual es una finalidad del archivo gitignore?{
+    =Configurar que archivos tenemos en cuenta para el control de versiones
+    ~Marcar los archivos de mayor importancia para su seguridad
+    ~Señalar la direccion del repositorio de GitHub
+    ~Guarda el historial de commits
+}
+
+¿Cual es la principal ventaja de los enviroments?{
+    =Tener las librerias organizadas y separadas
+    ~Poder trabajar varios desarrolladores en un mismo equipo
+    ~Tener control de versiones del codigo
+    ~Compartir codigo con colaboradores que cuenten con acceso al enviroments
+}
+
+¿En la jerarquía de los perfiles de la big data cual esta por encima?{
+    =Machine learning engineer
+    ~Data scientist
+    ~Data engineer
+    ~Data infraestructure engineer
+}
+
+En la criptografia simetrica{
+    =Esta pensado para sistemas de autenticación
+    ~Compartes tu clave publica y tu clave privada
+    ~Todas son falsas
+    ~Es demasiado complejo para implementarlo en entornos reales
+}
+
+Dentro dos tipos de datos, as imaxes son?{
+    =Datos non estructurados
+    ~Datos estructurados
+    ~Datos semi-estructurados
+    ~No se considera un dato
+}
