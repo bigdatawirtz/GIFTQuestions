@@ -1,4 +1,4 @@
-Las 3 V's del Big Data: {
+Las 3 V's del Big Data\: {
     =Volumen, Variedad, Velocidad
     ~Volumen, Valor, Velocidad
     ~Valor, Variedad, Velocidad
@@ -19,14 +19,14 @@ Las claves SSH públicas... {
     =Se almacena en un servidor
 }
 
-El sistema docker: {
+El sistema docker\: {
     ~Es una tecnología relativamente nueva y poco implementada en la red
     =Facilita que solo utilicen sus recursos asignados
     ~La estructura de Docker, para generar rapidez, usa solo una capa que genera varias imagenes
     ~Docker se basa en Windows
 }
 
-Un fichero Vagrant: {
+Un fichero Vagrant\: {
     =Es un software que nos permite configurar una instancia de una máquina virtual mediante un archivo de        configuración
     ~Un fichero Vagrant permite trabajar con distintas versiones en un mismo equipo
     ~Es un software que permite sustituir las maquinas virtuales para realizar instancias
