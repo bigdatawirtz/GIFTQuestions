@@ -1,0 +1,34 @@
+¿Cales son as 3V principais do Big Data? {
+    =Volumen, variaedade e velocidade.
+    ~Volumen, viabilidade e veracidade.
+    ~Viabilidade, visualización e velociade.
+    ~Valor, velocidade e viabilidade.
+}
+
+Diferencia principal entre escalabilidade vertical ou horizontal {
+    =Vertical, mellorar o hardware dos dispositivos, horizontal aumentar a cantidade de equipos.
+    ~Vertical, aumentar o número de equipos, horizontal, mellorar o hardware dos dispositivos. 
+    ~Vertical, aumentar o número de racks, horizontal, aumentar o número de armarios.
+    ~Ningunha das anteriores.
+}
+
+Diferencia entre clave privada e pública {
+    =A clave privada é a que tes ti no teu equipo e a pública no destino o que queres conectarte.
+    ~A clave privada podese compartir con todo o mundo mentre a pública non.
+    ~A clave privada é a que gardas no servidor o que te queres conectar e a pública a que tes no teu dispositivo.
+    ~A clave privada non se pode leer mentras a privada si.
+}
+
+¿Que comando hay que utilizar para crear un contenedor desde docker? {
+    =docker run 'image-name'
+    ~docker pull 'image-name'
+    ~docker start 'image-name'
+    ~docker exec 'image-name'
+}
+
+¿Cal de estas respostas non é unha diferenza entre docker e Máquian Virtual {
+    =As máquinas virtuais son máis lixeiras e eficientes en recursos que Docker.
+    ~Docker usa contedores para encapsular aplicacións e as súas dependencias, mentres que as máquinas virtuais virtualizan todo un sistema operativo.
+    ~Docker é xeralmente máis rápido ao iniciar e executar aplicacións en comparación coas máquinas virtuais.
+    ~Todas son correctas.
+}
