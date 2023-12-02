@@ -1,0 +1,35 @@
+
+¿Qué es el Fast-Forward Merge?{
+    =Ocurre cuando la rama que se va a fusionar no ha tenido cambios desde que se creó la rama actual. En lugar de crear un nuevo commit de fusión, Git simplemente mueve la rama actual hacia adelante hasta el commit de la otra rama.
+    ~Se produce cuando las ramas que se van a fusionar tienen cambios divergentes desde su punto de origen común. Git intenta combinar automáticamente estos cambios y crea un nuevo commit de fusión.
+    ~Se produce cuando se están fusionando más de dos ramas simultáneamente. Crea un commit de fusión con múltiples padres, representando la combinación de todos los cambios de las ramas fusionadas.
+    ~Es un tipo de merge más avanzado que maneja situaciones en las que las ramas han tenido cambios divergentes. Utiliza un algoritmo recursivo para combinar los cambios de manera eficiente.
+}
+
+¿Cuál de las siguientes características acerca de Open Data es falsa?{
+    =Es una filosofía que defiende que todos los datos deben ser públicos, incluso los datos personales.
+    ~Es una filosofía que defiende que ciertos datos deberían ser públicos y sin restricciones de acceso.
+    ~Tiene como objetivo principal fomentar la transparencia, la participación ciudadana, la innovación y el desarrollo económico.
+    ~Puede generar beneficios socioeconómicos al impulsar la investigación, el emprendimiento y la toma de decisiones basada en datos.
+}
+
+¿Cuál de estas diferencias entre fuentes de datos internas y externas es falsa?{
+    =Las fuentes de datos internas podrían ser datos del mercado o tendencias de la industria mientras que las externas serían datos de ventas o registros de clientes.
+    ~Las fuentes de datos internas provienen de la propia organización o empresa mientras que las externas provienen de fuera.
+    ~Las fuentes de datos internas permiten un mayor control sobre la calidad, mientras que la externas cuentan con un menor control ya que la empresa no cuenta con influencia directa sobre los datos.
+    ~Las fuentes de datos internas permiten mayor rapidez de acceso y familiaridad con los datos y las externas proporcionan una perspectiva más amplia del entorno al tratarse de información con la que no cuenta la empresa.
+}
+
+¿Cuáles son las funciones de un científico de datos?{
+    =Los científicos de datos normalmente tienen 4 tareas principales en una empresa; analizar, probar, crear y presentar.
+    ~Diseñar la infraestructura de big data y prepararla para ser analizada.
+    ~Crear consultas complejas para crear "canalizaciones".
+    ~Implementar medidas de seguridad para proteger la confidencialidad e integridad de los datos.
+}
+
+¿Cuál de las siguientes afirmaciones acerca de Python es falsa?{
+   =Python es un lenguaje de bajo nivel
+   ~En Python, el tipo de una variable puede cambiar dinámicamente durante la ejecución del programa.
+   ~Conda facilita la instalación y gestión de dependencias en proyectos Python al manejar automáticamente las versiones y las dependencias del sistema operativo.
+   ~Python es un lenguaje interpretado.
+}
