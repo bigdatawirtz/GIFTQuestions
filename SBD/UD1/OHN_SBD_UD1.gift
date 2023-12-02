@@ -1,0 +1,34 @@
+¿Cuál no es un tipo de datos? {
+~Datos estructurados 
+~Datos semi-estructurados 
+=Datos a-estructurados
+~Datos no estructurados
+}
+
+¿Cuáles son características de los datos no estructurados? {
+~Ningún tipo de estructura es predominante y no puede contener metadata.
+=Ningún tipo de estructura es predominante y puede contener metadata
+~Tiene un tipo de estructura predominante y puede contener metadata
+~Tiene un tipo de estructura predominante y no puede contener metadata
+}
+
+¿Cuál es mentira sobre la OpenData?{
+~OpenData es una fuente de datos externa y pública
+~OpenData es una filosofía y práctica que hace la información de temas públicos disponible para todo el mundo
+=OpenData es una fuente de datos externa que hace la información de temas públicos disponible para los expertos
+~Tiene licencia Open Source que garantiza el acceso y promueve su uso
+}
+
+¿Cuáles una característica del Data Science? {
+~Crecimiento lento
+~Comparativa
+~Estructurada
+=Predictiva
+}
+
+¿Cuál no forma parte de la estructura de los casos de uso de Big Data?{
+=Presupuesto
+~Resultados
+~Metodología
+~Fuentes de datos
+}
