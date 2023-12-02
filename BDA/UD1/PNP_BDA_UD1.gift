@@ -1,0 +1,34 @@
+Cuáles son las 3 principales V's del Big Data?{
+~Volumen, Viabilidad y Valor
+=Volumen, Variedad y Velocidad
+~Volumen, Velocidad y Valor 
+~Visualización, Variedad y Volumen
+}
+
+Para qué se creó Hadoop?{
+~Para crear máquinas virtuales
+~Para crear aplicaciones web
+=Para manejar volumenes de datos masivos 
+~Para manejar ficheros remotos
+}
+
+De qué tipo es el cifrado RSA?{
+~Hashing
+~Cifrado Simétrico
+=Cifrado asimétrico
+~Cifrado de Flujo
+}
+
+Cuál es el puerto por defecto de MariaDB?{
+~8000
+~80
+~8888
+=3306
+}
+
+Qué entendemos como escaliabilidad vertical en Big Data?{
+~Añadir más instancias de servidores al sistema
+~Distribuir la base de datos en múltiples ubicaciones
+~Distribuir la carga de trabajo entre múltiples servidores
+=Mejorar las características y capacidades de una máquina existente
+}
