@@ -7,10 +7,10 @@
 }
 
 Identifica la respuesta correcta sobre datos Semi-estructurados {
-        =Se corresponden con datos semi-estructurados: XML, Json y las bases de datos NoSQL. 
-        ~Se corresponden con datos semi-estructurados: imagen, vídeo, audio, documentos de texto, pdf.
-        ~Se corresponden con datos semi-estructurados: pueden contener algún tipo de metadatos.
-        ~Se corresponden con datos semi-estructurados: documentos empresariales, como correos electrónicos, presentaciones, informes.
+        =Se corresponden con datos semi-estructurados\: XML, Json y las bases de datos NoSQL. 
+        ~Se corresponden con datos semi-estructurados\: imagen, vídeo, audio, documentos de texto, pdf.
+        ~Se corresponden con datos semi-estructurados\: pueden contener algún tipo de metadatos.
+        ~Se corresponden con datos semi-estructurados\: documentos empresariales, como correos electrónicos, presentaciones, informes.
 }
 
 ¿Cual es la función del comando git merge? {

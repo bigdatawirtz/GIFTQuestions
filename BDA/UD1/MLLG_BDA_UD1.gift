@@ -3,7 +3,7 @@
         ~El big data está formado por conjuntos de datos simples y de pequeño tamaño, especialmente procedentes de nuevas fuentes de datos.
         ~El término "big data" se refiere a los datos grandes que es facil procesar con los métodos tradicionales.
 	=Cuando hablamos de Big Data nos referimos a conjuntos de datos cuyo volumen, variedad y velocidad de crecimiento dificultan su captura, gestión, procesamiento o análisis mediante tecnologías y herramientas convencionales.
-	~La naturaleza compleja del Big Data se debe principalmente a la naturaleza estructurada de gran parte de los datos generados por las tecnologías modernas: redes sociales, búsquedas en Internet, dispositivos GPS....
+	~La naturaleza compleja del Big Data se debe principalmente a la naturaleza estructurada de gran parte de los datos generados por las tecnologías modernas\: redes sociales, búsquedas en Internet, dispositivos GPS....
 }
 
 
@@ -42,7 +42,7 @@ De las siguientes afirmaciones, cual es la afirmación FALSA sobre el escalado h
 De las siguientes afirmaciones, cual es la afirmación FALSA sobre las claves SSH {
         =Las claves SSH son un protocolo de cifrado que funciona como una capa de conexión segura que encripta la información enviada mediante la web.
         ~Las claves SSH consisten en la generación de una clave pública y una privada, la clave pública se instala en cualquier servidor y luego se desbloquea mediante la conexión con un cliente SSH que hace uso de la clave privada. Si las dos claves coinciden, el servidor SSH permite el acceso sin necesidad de utilizar una contraseña. 
-	~Las claves SSH tienen dos ficheros distintos: la llave pública (que es la que lleva .pub al final) y la privada.
+	~Las claves SSH tienen dos ficheros distintos\: la llave pública (que es la que lleva .pub al final) y la privada.
         ~Las claves SSH (Secure Shell) son una forma de acceder a un directorio de forma cifrada, de manera que nadie pueda interceptar esa información.          
 }
 
