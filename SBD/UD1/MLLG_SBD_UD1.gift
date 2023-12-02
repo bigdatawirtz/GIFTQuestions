@@ -1,5 +1,5 @@
 ¿Cual es la afirmación correcta sobre un Científico de Datos? {
-    ~Verifica que los algoritmos ML en producción cumplen sus objetivos y se adaptan a los 	cambios.
+        ~Verifica que los algoritmos ML en producción cumplen sus objetivos y se adaptan a los 	cambios.
 	~Utilizar lenguajes de consulta para recuperar y manejar información.
 	=Utiliza herramientas estadísticas y de Machine Learning para realizar predicciones o identificar patrones en grandes conjuntos de datos ("datasets").
 	~Utiliza herramientas estadísticas descriptivas.

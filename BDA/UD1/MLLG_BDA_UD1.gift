@@ -1,10 +1,9 @@
 ¿Qué es Big Data? {
         ~El big data está formado por conjuntos de datos simples y de pequeño tamaño, especialmente procedentes de nuevas fuentes de datos.
         ~El término "big data" se refiere a los datos grandes que es facil procesar con los métodos tradicionales.
-	=Cuando hablamos de Big Data nos referimos a conjuntos de datos cuyo volumen, variedad y velocidad de crecimiento dificultan su captura, gestión, procesamiento o análisis mediante tecnologías y herramientas convencionales.
-	~La naturaleza compleja del Big Data se debe principalmente a la naturaleza estructurada de gran parte de los datos generados por las tecnologías modernas\: redes sociales, búsquedas en Internet, dispositivos GPS....
+        =Cuando hablamos de Big Data nos referimos a conjuntos de datos cuyo volumen, variedad y velocidad de crecimiento dificultan su captura, gestión, procesamiento o análisis mediante tecnologías y herramientas convencionales.
+        ~La naturaleza compleja del Big Data se debe principalmente a la naturaleza estructurada de gran parte de los datos generados por las tecnologías modernas\: redes sociales, búsquedas en Internet, dispositivos GPS....
 }
-
 
 De las siguientes afirmaciones, cual es la afirmación FALSA sobre el escalado horizontal y vertical {
         =El escalado horizontal es facil de configurar, pero el crecimiento es limitado y no soporta balanceo de cargas.
@@ -13,14 +12,12 @@ De las siguientes afirmaciones, cual es la afirmación FALSA sobre el escalado h
         ~El escalado vertical no implica un gran problema para las aplicaciones, ya que todo el cambio es sobre el hardware, pero puede resultar muy caro.
 }
 
-
 ¿Cual es la afirmación correcta sobre Vagrant? {
         ~Vagrant es una aplicación desarrollada en php que nos permite crear y personalizar entornos de desarrollo complejos y pesados.
         ~Vagrant es una aplicación que cuando se levanta con <vagrant up> no falla nunca. 
-	=Vagrant es un software de código abierto desarrollado en ruby que nos permite crear y mantener entornos de desarrollo portables.
+        =Vagrant es un software de código abierto desarrollado en ruby que nos permite crear y mantener entornos de desarrollo portables.
         ~<vagrant reload> detiene la máquina virtual y destruye todos los cambios que podamos haber hecho. La siguiente vez que hagamos un <vagrant up> partirá de una imagen totalmente limpia.
 }
-
 
 ¿Cual es la afirmación correcta sobre el comando SCP? {
         =El comando SCP (Secure Copy Protocol) de Linux es un protocolo de transferencia de archivos en red que permite la transferencia de archivos entre un host remoto y uno local, o entre dos ubicaciones remotas.
@@ -33,7 +30,7 @@ De las siguientes afirmaciones, cual es la afirmación FALSA sobre el escalado h
 ¿Cual es el protocolo de red asociado al puerto 22? {
         ~Servicio de bases de datos MySQL (también para MariaDB).
         ~Es usado por el servicio de DNS, Domain Name System.
-	=Secure Shell (SSH). El SSH protocolo de túnel que crea conexiones de red seguras.
+        =Secure Shell (SSH). El SSH protocolo de túnel que crea conexiones de red seguras.
         ~Es el puerto alternativo al puerto 80 TCP para servidores web, normalmente se utiliza este puerto en pruebas.
 }
 
@@ -41,6 +38,14 @@ De las siguientes afirmaciones, cual es la afirmación FALSA sobre el escalado h
 De las siguientes afirmaciones, cual es la afirmación FALSA sobre las claves SSH {
         =Las claves SSH son un protocolo de cifrado que funciona como una capa de conexión segura que encripta la información enviada mediante la web.
         ~Las claves SSH consisten en la generación de una clave pública y una privada, la clave pública se instala en cualquier servidor y luego se desbloquea mediante la conexión con un cliente SSH que hace uso de la clave privada. Si las dos claves coinciden, el servidor SSH permite el acceso sin necesidad de utilizar una contraseña. 
-	~Las claves SSH tienen dos ficheros distintos\: la llave pública (que es la que lleva .pub al final) y la privada.
+        ~Las claves SSH tienen dos ficheros distintos\: la llave pública (que es la que lleva .pub al final) y la privada.
         ~Las claves SSH (Secure Shell) son una forma de acceder a un directorio de forma cifrada, de manera que nadie pueda interceptar esa información.          
 }
+
+Identifica la afirmación correcta sobre el sistema criptográfico RSA {
+        ~El cifrado RSA es un sistema criptográfico que no permite enviar mensajes cifrados sin tener que intercambiar una clave privada.
+        ~En la criptografía simétrica una clave pública está asociada a una clave privada únicamente, la cual puede descifrar la información.
+        ~En la criptografía asimétrica, la clave privada puede tanto cifrar datos como descifrar datos.
+        =El sistema criptográfico RSA es el algoritmo basado en la factorización de números enteros, que consta de una clave pública, a la que se puede acceder libremente, y de una clave privada, que solo debe conocer una persona.
+}
+
