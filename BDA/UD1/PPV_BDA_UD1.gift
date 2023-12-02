@@ -1,0 +1,34 @@
+Diferenzas entre escalabilidade horizontal e vertical{
+  =En resumo, a escalabilidade horizontal baséase na amplificación do número de equipos, mentras que a vertical na mellora de estes equipos.
+  ~En resumo, a escalabilidade vertical baséase na amplificación do número de equipos, mentras que a horizontal na mellora de estes equipos.
+  ~En resumo, a escalabilidade horizontal e vertical son o mesmo, solo que con varianzas topolóxicas.
+  ~Ninguna é correcta.
+}
+
+Señala as 3 principales V's  do Big Data{
+  =Volume, Variedade, Velocidade.
+  ~Volume, veracidade, valor.
+  ~Variedade, visualización, viabilidade.
+  ~Velocidade, viabilidade, valor.
+}
+
+En canto as chaves RSA ¿Que chave debemos compartir se queremos acceder algunha conexión? {
+  =Só a chave pública.
+  ~Só a chave privada. 
+  ~Tanto a chave pública e privada, pero ambas cifradas.
+  ~Ningunha, é unha irresponsabilidade compartir as claves.
+}
+
+¿En que se diferenza un docker de unha máquina virtual? {
+  =O docker é unha emulación dunha instancia do espazo de usuario, mentras que a mv é unha emulación da máquina física.
+  ~Son 2 aplicacións diferentes, co mesmo obxectivo.
+  ~O docker é un contenedor de varias mv.
+  ~Ninguna é correcta.
+}
+
+¿Cal é o porto habitual para o protocolo TCP/UDP? {
+  =8000.
+  ~8080.
+  ~22.
+  ~135.
+}

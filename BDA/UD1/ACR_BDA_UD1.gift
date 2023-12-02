@@ -1,0 +1,34 @@
+La cantidad de datos...{
+~que se generan es cada vez menor
+~no varian con los años
+=que se generan es cada vez mayor
+~no se sabe la cantidad exacta
+}
+
+Dentro de las claves RSA encontramos{
+~Las claves publicas y seguras
+~Las claves generales y privadas
+~Las claves SSH
+=Las claves publicas y privadas
+}
+
+¿Cual de estos es un tipo de servidor HTTP? {
+~MongoDB
+~FileZilla
+~HDFS
+=Apache
+}
+
+¿Que tipo de software es Hadoop?{
+~Para generacion de claves RSA
+~Para bases de datos
+~Para conexion entre hosts
+=Para manejo de big data
+}
+
+¿Cual es la funcion del comando "scp"?{
+=Copiar archivos entre hosts de forma segura
+~Comprobar la conexion entre hosts
+~Enviar la clave publica al host objetivo
+~Obtener la informacion de un servidor web
+}
