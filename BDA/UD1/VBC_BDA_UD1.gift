@@ -1,0 +1,34 @@
+¿Cuál de las siguientes es una diferencia entre el cifrado simétrico y el asimétrico?{
+    =En el cifrado simétrico, se utiliza una única clave compartida para cifrar y descifrar la información, mientras que en el cifrado asimétrico se emplea un par de claves: una pública, compartida abiertamente, y otra privada, mantenida en secreto.
+    ~En el simétrico la clave pública se puede compartir abiertamente, mientras que en el asimétrico no.
+    ~El asimétrico se usa comúnmente para cifrar grandes cantidades de datos y el simétrico se utiliza para operaciones clave pública/privada.
+    ~El cifrado asimétrico utiliza la misma clave tanto para el cifrado como para el descifrado, mientras que el simétrico utiliza una para cifrar y otra para descifrar.
+}
+
+¿Qué es MapReduce? Marca la falsa{
+    ~Una manera distribuída de procesar datos.
+    ~El término MapReduce se refiere a dos fases distintas del proceso; la fase de mapeo y la fase de reducción.
+    ~Un paradigma de procesamiento de datos que utiliza el sistema de archivos HDFS
+    =Es un modelo de programación que permite solamente el procesado de pequeños volúmenes de datos.
+}
+
+¿Qué comando nos permite ver el estado del directorio de trabajo en Git?{
+    =git status
+    ~git config
+    ~git log
+    ~git init
+}
+
+¿Qué hace el comando 'vagrant init'?{
+    =Inicializar un nuevo Vagrantfile en el directorio actual.
+    ~Levantar una máquina virtual basada en la configuración definida en el Vagrantfile.
+    ~Copia el contenido del directorio actual a la máquina virtual.
+    ~Crea una clonación de la máquina virtual.
+}
+
+¿Cuál de las siguientes es una diferencia entre un contenedor Docker y una máquina virtual?{
+    =Los contenedores comparten el kernel del sistema operativo anfitrión, mientras que las máquinas virtuales tienen su propio kernel.
+    ~Los contenedores generalmente son menos ligeros que las máquinas virtuales.
+    ~Los contenedores proporcionan un mayor nivel de aislamiento al ejecutar sistemas operativos completamente separados.
+    ~Para levantar una máquina virtual, se utiliza el comando vagrant init y para crear un contenedor Docker, se utiliza el comando docker run.
+}
