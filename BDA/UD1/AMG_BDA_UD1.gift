@@ -1,0 +1,34 @@
+¿Cales son as 3V do Big Data?{
+    ~Veracidad, Volume e Virtualización
+    ~Verificación, Virtualización e Velocidade
+    =Volume, Variedade e Velocidade
+    ~Variabilidad, Visibilidad e Velocidade 
+}
+
+Que é correcto sobre o HDFS{
+    ~É un tipo de base de datos relacional
+    ~HDFS significa "High-Definition File System"
+    =É o sistema de arquivos distribuídos de Hadoop 
+    ~É un sistema de arquivos sin tolerancia a fallos
+}
+
+¿Qué es Docke?{
+    ~Una plataforma de contenedores.
+    ~Un proyeproxectocto de código aberto
+    ~Unha plataforma de software que che permite crear, probar e implementar aplicacions.
+    =Todas son correctas
+}
+
+¿Qué significa estabilidade horizontal?{
+    ~ O crecemento dos datos está lixado ao hardware 
+    ~ Un fallo no servidor implicaría que a aplicación se tivera que deter
+    ~ Procesar grandes bases de datos con computadoras centrais grandes e potentes, e almacenalas en servidores de discos xigantes
+    = Cada computadora da arquitectura distribuída analiza a súa parte do total de datos masivos 
+}
+
+Que é certo sobre o cifrado RSA?{
+    ~ É un protocolo de seguridad de red
+    ~ Utiliza unha clave única. 
+    = Pertence ao tipo de cifrado asimétrico
+    ~ É un dos tipos de cifrado mais seguros, o Estándar de Cifrado Avanzado, utilizado por ejemplo polo goberno
+}
