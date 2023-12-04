@@ -1,0 +1,34 @@
+¿Cuál no es una de las tres Vs de la Big Data? {
+~Volumen
+~Variedad
+=Veracidad
+~Velocidad
+}
+
+¿Qué magnitud es más grande que el Yottabyte? {
+~Zettabyte
+=Brontobyte
+~Exabyte
+~Petabyte
+}
+
+¿Cuáles son ejemplos de Big Data?{
+~Mercado financiero
+~Social Media
+=Todas son verdaderas
+~Aviación
+}
+
+Selecciona la afirmación verdadera y más completa {
+~En la actualidad pocas infraestructuras de datos se basan en servidores de bases de datos y herramientas de procesamiento de datos tradicionales lento
+~En la actualidad la mayoría de infraestructuras de datos se basan en servidores de bases de datos
+~En la actualidad la mayoría de infraestructuras de datos se basan en herramientas de procesamiento de datos tradicionales
+=En la actualidad la mayoría de infraestructuras de datos se basan en servidores de bases de datos y herramientas de procesamiento de datos tradicionales
+}
+
+La escalabilidad vertical consiste en {
+=Agregar más potencia y almacenamiento a un equipo (A)
+~Distribuir los sistemas de datoas en recursos independientes conectados (B)
+~A y B son verdaderas
+~Ni A ni B son verdaderas
+}
